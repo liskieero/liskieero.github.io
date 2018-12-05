@@ -14,15 +14,19 @@ body {
   /* background: url(pic1.jpg) no-repeat center center fixed; */
 }
 
-.user-div1 {
-  height: 80%;
+header.startup {
+  height: 100%;
 }
 
-.user-div2 {
+.row {
+  height: 95%;
+}
+
+.user-div1 {
   border-top: solid 10px rgba(255,0,0,0.6);
   border-bottom: solid 10px rgba(255,0,0,0.6);
-  width: 700px;
-  margin: auto;
+  /* width: 700px; */
+  /* margin: auto; */
   padding-top: 15px;
 }
 
